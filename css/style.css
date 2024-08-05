@@ -1,0 +1,381 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.navbar{
+    background-color: #231b6f;
+    height: 80px;
+}
+
+#logo{
+    width: 60px;
+    height: 60px;
+    margin-top: 0.5%;
+    margin-left: 15%;
+}
+
+/* .regulus{
+    margin-top: -1%;
+    font-size: 30px;
+    color: #ffffff
+} */
+
+.navbar ul{
+    list-style-type: none;
+    padding: 1%;
+    margin: 0;
+    /* margin-top: -5%; */
+    margin-right: -55%;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li{
+    color: white;
+    list-style: none;
+    display: inline-block;   
+    /* margin-right: 5%; */
+    margin: 0 20px;
+    margin-top: -4%;
+    display: inline-block; 
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navbar li:hover{
+    color: lightslategray;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 4%;
+}
+
+.home p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+img{
+    margin-left: 30%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    height: 500px;
+    width: auto;
+}
+
+hr{
+    width: 1200px;
+    margin-left: 20%;
+}
+
+.whatwedo ul{
+    margin-top: 3%;
+    margin-left: 20%;
+    list-style: none;
+}
+
+.whatwedo a{
+    color: black;
+    text-decoration: none;
+}
+
+.whatwedo li{
+    font-size: 18px;
+}
+
+.whatwedo li:hover{
+    color: #189c84;
+}
+
+#topic{
+    color: black;
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 1%;
+}
+
+.whatwedo p{
+    margin-left: 38%;
+    margin-top: -10%;
+    font-size: 18px;
+}
+
+.consulting{
+    width: 800px;
+    background-color: #231b6f;
+    margin-left: 38%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+
+.consulting h2{
+    font-size: 28px;
+    color: #ffffff;
+    padding: 2%;
+    padding-bottom: 0;
+    margin-bottom: 1%;
+}
+
+/* .consulting p{
+    color: #ffffff;
+    font-size: 18px;
+    padding-bottom: 3%;
+    padding-left: 2%;
+} */
+
+.icon{
+    width: 70px;
+    height: auto;
+    margin-top: -4%;
+    margin-right: 10%;
+    
+}
+
+.content {
+    display: flex;
+    align-items: center;
+}
+
+.content p {
+    flex: 1;
+    margin-right: 10px;
+    white-space: nowrap;
+    color: #ffffff;
+    padding-left: 2%;
+    margin-bottom: 2%;
+}
+
+.content img {
+    width: 100px;
+    height: auto;
+    margin-left: 0;
+}
+
+#products{
+    margin-top: -7%;
+}
+
+#ecommerce{
+    background-color: #189c84;
+}
+
+#ongea{
+    background-color: #189c84;
+}
+
+.clients {
+    background-color: white;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 38%;
+    margin-top: -3%;
+    box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+        -webkit-box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+        -moz-box-shadow: 2px 2px 8px -1px rgba(0,0,0,0.75);
+}
+
+table{
+    margin-left: 30%;
+    margin-top: -4%;
+    border-spacing: 20px 30px;
+}
+
+
+.clients img{
+    width: 150px;
+    height: auto;
+    margin-left: 12%;
+    margin-top: 10%;
+    
+}
+
+#hotpoint{
+    padding-top: 5%;
+}
+
+#sankara{
+    width: 120px;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+
+#braeburn{
+    margin-top: 15%;
+}
+
+#sirimon{
+    width: 130px;
+    height: auto;
+    margin-top: 6%;
+    margin-left: 16%;
+}
+
+.talk{
+    width: 1200px;
+    background-color: #231b6f;
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.talk h2{
+    font-size: 28px;
+    color: #ffffff;
+    padding: 2%;
+    padding-bottom: 0;
+}
+
+.talk p{
+    font-size: 18px;
+    margin-top: -5%;
+    margin-bottom: -2%;
+}
+
+.talk_button{
+    height: 45px;
+    width: 120px;
+    font-size: 18px;
+    padding: 1%;
+    margin-top: -3%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    background-color: #189c84;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: wheat;
+    height: 300px;
+    margin-top: -5%;
+}
+
+.end{
+    list-style: none;
+    margin-left: 20%;
+    padding-top: 8%;
+    font-size: 18px;
+}
+
+#limited{
+    font-weight: 600;
+}
+
+.copy{
+    list-style: none;
+    margin-left: 80%;
+    padding-top: -20%;
+    font-size: 18px;
+}
+
+#social_icons{
+    margin-left: 80%;
+    margin-top: -6%;
+}
+
+.socials td{
+    font-size: 30px;
+    margin-left: -80%;
+}
+
+#contact_icon{
+    font-size: 60px;
+}
+
+.location{
+    margin-top: 3%;
+    margin-left: 20%;
+    border-spacing: 200px 30px;
+}
+
+#message{
+    margin-top: 5%;
+    color: black;
+    font-size: 36px;
+    font-weight: 500;
+    /* margin-bottom: 1%; */
+}
+
+form{
+    margin-left: 38%;
+    margin-top: -5%;
+}
+
+input{
+    height: 40px;
+    width: 700px;
+    border: 0.5px solid lightgrey;
+    border-radius: 5px;
+}
+
+#info{
+    height: 80px;
+    width: 700px;
+    border: 0.5px solid lightgrey;
+    border-radius: 5px;
+}
+
+.send_button{
+    background-color: #231b6f;
+    color: #ffffff;
+    height: 45px;
+    width: 160px;
+    font-size: 18px;
+    margin-top: 1%;
+    margin-left: 38%;
+    margin-bottom: 8%;
+    border: none;
+    border-radius: 5px;
+}
+
+.learn{
+    height: 45px;
+    width: 120px;
+    font-size: 18px;
+    padding: 1%;
+    margin-top: 5%;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    background-color: #189c84;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.center_table{
+    margin-left: 38%;
+    margin-top: -2%;
+}
+
+.center_table td::before {
+    content: '•';
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-right: 0.5em;
+}
+
+.center_paragraph{
+    margin-left: 38%;
+}

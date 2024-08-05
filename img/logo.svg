@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15.3mm" height="13.29mm" version="1.1" viewBox="0 0 54.2 47.08" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(-367.2,-403.1)" stroke="#05386b" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m394.2 419h17.8l-8.9 15.4z" fill="#5cdb94"/>
+  <path d="m394.3 449.7h17.8l-8.9-15.4z" fill="#389583"/>
+  <path d="m367.7 434.3h17.8l-8.9 15.4z" fill="#389583"/>
+  <path d="m376.6 419h17.8l-8.9 15.4z" fill="#fff"/>
+  <path d="m376.6 449.7h17.8l-8.9-15.4z" fill="#389583"/>
+  <g fill="#5cdb94">
+   <path d="m394.2 419h17.8l-8.9-15.4z"/>
+   <path d="m403.1 434.3h17.8l-8.9 15.4z"/>
+   <path d="m403.1 434.4h17.8l-8.9-15.4z"/>
+  </g>
+  <path d="m367.7 434.3h17.8l-8.9-15.4z" fill="#fff"/>
+  <path d="m385.4 434.3h17.8l-8.9 15.4z" fill="#389583"/>
+  <path d="m376.6 419h17.8l-8.9-15.4z" fill="#fff"/>
+  <path d="m385.4 403.6h17.8l-8.9 15.4z" fill="#fff"/>
+ </g>
+</svg>

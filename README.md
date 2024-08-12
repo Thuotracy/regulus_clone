@@ -1,1 +1,1 @@
-## Regulus
+## Regulus clone

@@ -1,1 +1,1 @@
-## REGULUS CLONE
+## Regulus

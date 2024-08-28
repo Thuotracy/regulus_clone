@@ -362,6 +362,11 @@ input{
     border-radius: 5px;
 }
 
+.learn a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 .center_table{
     margin-left: 38%;
     margin-top: -2%;

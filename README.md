@@ -2,7 +2,8 @@
 
 ## Description
 
-This is a website for a company that offers ERP Solutions that unify your business operations, from finance to customer management. 
+This is a website for a company that builds robust and scalable web applications to support any business process, from
+e-commerce and school applications to encrypted fraud reporting systems and complex data visualisations.
 
 ## Technologies Used
 * HTML

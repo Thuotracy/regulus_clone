@@ -10,7 +10,7 @@ e-commerce and school applications to encrypted fraud reporting systems and comp
 * CSS
 
 ## Live link
-https://thuotracy.github.io/auraska/
+
 
 ## Support and contact details
 

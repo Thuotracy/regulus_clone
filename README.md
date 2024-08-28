@@ -13,5 +13,4 @@ e-commerce and school applications to encrypted fraud reporting systems and comp
 
 
 ## Support and contact details
-
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com

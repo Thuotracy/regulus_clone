@@ -1,5 +1,4 @@
 ## REGULUS
-
 ## Description
 
 This is a website for a company that builds robust and scalable web applications to support any business process, from e-commerce and school applications to encrypted fraud reporting systems and complex data visualisations.
